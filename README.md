@@ -15,3 +15,6 @@ This repository contains LTSpice Simulations and relevant material for the cours
 **Simulation 6** - Final Integration
 
 Go thru the README.md file present in each of the directive to know more about the simulation.
+
+you can use these simulation files for reference
+
